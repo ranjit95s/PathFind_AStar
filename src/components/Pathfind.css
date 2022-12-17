@@ -1,0 +1,46 @@
+.find {
+    color: rgb(73, 73, 73);
+}
+
+.find span {
+    font-size: 20px;
+    margin-left:10px;
+    color: indigo;
+    letter-spacing: 1px;
+}
+
+.wrapper {
+    max-width: 80%;
+    margin: auto;
+}
+
+.rowWrapper {
+    display: flex;
+}
+
+.visualizeBtn {
+    border: 1px solid grey;
+    font-size: 15px;
+    margin-bottom: 15px;
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(98, 33, 158);
+    cursor:pointer;
+}
+
+.visualizeBtn:hover{
+    border: 1px solid rgb(56, 40, 40);
+    color: blueviolet;
+}
+
+.clear {
+    background-color: red;
+    color: wheat;
+    margin-left: 10px;
+}
+
+.clear:hover {
+    color: whitesmoke;
+}
